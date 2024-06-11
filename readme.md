@@ -54,7 +54,66 @@ The repository is organized as follows:
 ## Getting Started
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/aaditya29/Linux-And-Parallel-Computing
    cd linux-parallel-computing-learning
    ```
+
+2. **Navigate through the directories** to find tutorials and examples that match your learning path.
+
+3. **Follow the tutorials** in each section, starting from the basics and moving towards advanced topics.
+
+## Learning Resources
+
+### Linux
+
+- **Introduction to Linux**:
+
+  - Basic commands
+  - File system navigation
+  - User and group management
+
+- **Intermediate Linux**:
+
+  - Shell scripting
+  - Process management
+  - Networking
+
+- **Advanced Linux**:
+  - System administration
+  - Security
+  - Performance tuning
+
+### Parallel Computing
+
+- **Introduction to Parallel Computing**:
+
+  - Concepts and terminology
+  - Types of parallelism
+  - Overview of parallel architectures
+
+- **Programming Models**:
+
+  - Shared memory (OpenMP)
+  - Distributed memory (MPI)
+  - GPU programming (CUDA)
+
+- **Advanced Topics**:
+  - Performance optimization
+  - Parallel algorithms
+  - Case studies and real-world applications
+
+## Examples and Tutorials
+
+### Linux Examples
+
+- [Basic Command Examples](Linux/examples/basic_commands.md)
+- [Shell Scripting Examples](Linux/examples/shell_scripting.md)
+- [System Administration Examples](Linux/examples/system_admin.md)
+
+### Parallel Computing Examples
+
+- [OpenMP Examples](ParallelComputing/examples/openmp.md)
+- [MPI Examples](ParallelComputing/examples/mpi.md)
+- [CUDA Examples](ParallelComputing/examples/cuda.md)
